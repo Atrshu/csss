@@ -2,5 +2,5 @@
   font-family: 'rfont';
   font-style: normal;
   font-weight: normal;
-  font-size: font-size: 130%;
+  font-optical-sizing: auto;
   src: url(https://cdn.jsdelivr.net/gh/Atrshu/csss/rfont.woff) format('woff');
