@@ -28,8 +28,8 @@ font-style: normal;
     font-weight: normal;
     font-style: normal;
 }
-#rainbow {
-    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);
-    width: 500px;
-    height: 300px;
-}
+.text-rainbow {
+  background-image: linear-gradient(90deg, red, orange, yellow, green, blue, navy, purple);
+  -webkit-background-clip: text;
+  color: transparent;
+
